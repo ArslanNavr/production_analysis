@@ -16,8 +16,6 @@ import datetime
 ####################
 
 # Extracting zip
-print(os.getcwd())
-
 extract_path = '\data'
 extract_path = '..\\..\\Data Science Cursus\\production_analysis\\data'
 
