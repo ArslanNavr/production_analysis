@@ -1,14 +1,6 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[30]:
-
-
-import zipfile
 import os
 import json
 import matplotlib.pyplot as plt
-import numpy as np
 import random
 import seaborn as sns
 import datetime
