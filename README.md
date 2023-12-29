@@ -1,25 +1,15 @@
 # Production Analysis Tool
 
-Welcome to the Production Analysis Tool, a comprehensive Python script designed for analyzing and visualizing production data in the bustling cities of Brussels and Stockholm. This tool is your go-to solution for extracting meaningful insights from complex production datasets.
+## Overview
+The Production Analysis Tool is a Python script designed for the extraction, simulation, and visual representation of production data from Brussels and Stockholm. It offers a streamlined approach to handling large datasets, providing insights through statistical models and visualizations.
 
 ## Features
+- **Data Extraction**: Automated extraction from specified directories.
+- **Random File Sampling**: Unbiased selection from datasets for analysis.
+- **Production Simulation**: Introduces variability to reflect real-world scenarios.
+- **Advanced Visualizations**: Histograms, Kernel Density Estimates, and Time Series plots for comprehensive analysis.
 
-- **Data Extraction**: Seamlessly extract data from zipped archives to analyze production figures.
-- **Random File Selection**: Dive into datasets with a randomized approach to file selection, ensuring a broad and unbiased data overview.
-- **Simulation of Data**: Introduce variability into your data with our simulation feature, reflecting real-world fluctuations in production.
-- **Visualization**: Bring your data to life with histograms and time series line plots, offering a clear visual representation of production trends over time.
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed:
-- Python 3.x
-- Libraries: `zipfile`, `os`, `json`, `matplotlib`, `numpy`, `seaborn`, `datetime`
-
-### Installation
-
-Clone this repository to your local machine using:
-
+## Installation
+Ensure you have Python 3.x and the following libraries: `os`, `json`, `matplotlib`, `seaborn`, `datetime`. Clone the repository:
 ```bash
 git clone https://github.com/ArslanNavr/production_analysis.git
